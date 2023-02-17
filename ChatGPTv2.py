@@ -67,14 +67,5 @@ while True:
     # save dataframe to csv file
 #    df.to_csv('ChatGPT.csv', index=False)
     df.to_csv('ChatGPT.csv', mode='a', index=False, header=False)
-    now = datetime.datetime.now()
-    now1 = str(now)
+    
 
-    with open('chatlog.txt', 'a') as f:
-      f.write('###XXX###' + p +'#####'+ prompt + '-------\n#####' +response + '#####\n')
-    with open('ChatBrain.txt', 'a') as f:
-      f.write(p + '#####' + prompt + "#####"  +response + "###########\n")
-    with open('response.txt', 'w') as f:
-        f.write(response)
-    with open('prompt.txt', 'w') as f:
-        f.write(prompt)
