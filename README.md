@@ -47,6 +47,8 @@ Pandas, datetime, os, colorama and openai must be installed, if they aren't, the
 
 $$\sqrt{3}+1$$
 
+PipInstall_1.mp4
+
 <IMG SRC="Img1.png">
 
 ## Addendum 
