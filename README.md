@@ -4,7 +4,9 @@
 
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100085010084113&mibextid=ZbWKwL">Rickey Estes on Facebook</a>
 
+<a target="_blank" Href="https://www.paypal.me/RickeyEstes888">Rickey Estes on PayPal</a>
 
+<a target="_blank" Href="https://cash.app/$RickeyEstes888">Rickey Estes on CashApp</a>
 
 #### [⭐ Colorful ChatGPT bot Python source code 🔥](https://raw.githubusercontent.com/RickeyEstes2/ChatGPT-Chatbot/main/ChatGPTv2.py) 
 
