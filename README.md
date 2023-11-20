@@ -20,7 +20,7 @@ Find me on:<a target="_blank" href="https://twitter.com/Estes6Rickey?t=P3kTwMwJv
 ### **<A Href="#Pydroid3">Click here for PyDroid3 Installation Instructions</a>** ##
 ### **Windows cmd prompt installation**
 
-pandas, datetime, os, colorama and openai==28 must be installed, if they aren't, then:
+pandas, datetime, os, colorama and openai==0.28 must be installed, if they aren't, then:
 
 ```bash
 pip install pandas openai==0.28 datetime colorama
@@ -39,7 +39,7 @@ Save and then run.
 
 ### PyDroid3 
 -<a name="PyDroid3"> [PyDroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
-pandas, datetime, os, colorama and openai must be installed, if they aren't, then follow the instructions in this video --> <A Href="https://youtu.be/ylU3l1FRuAU">Click here</a>. After watching that video <a Href="https://youtube.com/shorts/_7kEiYdZ2Uw?feature=share">Click here</a> to watch this one.
+pandas, datetime, os, colorama and openai==0.28 must be installed, if they aren't, then follow the instructions in this video --> <A Href="https://youtu.be/ylU3l1FRuAU">Click here</a>. After watching that video <a Href="https://youtube.com/shorts/_7kEiYdZ2Uw?feature=share">Click here</a> to watch this one.
 
 
 <A Href="https://youtu.be/ylU3l1FRuAU">Click here</a> for the instructions to install the modules using [PyDroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
