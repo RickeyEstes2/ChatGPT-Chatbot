@@ -20,10 +20,10 @@ Find me on:<a target="_blank" href="https://twitter.com/Estes6Rickey?t=P3kTwMwJv
 ### **<A Href="#Pydroid3">Click here for PyDroid3 Installation Instructions</a>** ##
 ### **Windows cmd prompt installation**
 
-pandas, datetime, os, colorama and openai must be installed, if they aren't, then:
+pandas, datetime, os, colorama and openai==28 must be installed, if they aren't, then:
 
 ```bash
-pip install pandas openai datetime colorama
+pip install pandas openai==0.28 datetime colorama
 ```
 
 In the directory that ChatGPTv2.py is located type:
