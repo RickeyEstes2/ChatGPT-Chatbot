@@ -1,14 +1,15 @@
 <h1 align="center">🔥 ChatGPTv3.py 🔥</h1>
 
 Find me on:<br>
-:fa-hand-paper-o a-shake: <a target="_blank" href="https://twitter.com/Estes6Rickey?t=P3kTwMwJvryZnMk0MAmduQ&s=09"> Twitter</a>|
+ :fa-hand-paper-o a-shake: <a target="_blank" href="https://twitter.com/Estes6Rickey?t=P3kTwMwJvryZnMk0MAmduQ&s=09"> Twitter</a>|
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100085010084113&mibextid=ZbWKwL">Facebook</a>|
 <a target="_blank" Href="https://www.paypal.me/RickeyEstes888">PayPal</a>|
-<a target="_blank" Href="https://cash.app/$RickeyEstes888">CashApp</a> :fa-hand-paper-o a-shake:
+<a target="_blank" Href="https://cash.app/$RickeyEstes888">CashApp</a> :fa-hand-paper-o a-shake: 
+
 
 #### [🔥 Colorful Android ChatGPTv3 chatbot 🔥<br>🔥 Python3.x source code 🔥](https://raw.githubusercontent.com/RickeyEstes2/ChatGPT-Chatbot/main/ChatGPTv3.py)<br>🔥 Conversations are appended to ChatGPT.csv  ⭐
 
-* Since, ==openai== has ==deprecated== the ==text-davinci-003== model, ==I modified ChatGPTv2 and renamed it ChatGPTv3.py== to accommodate gpt-3.5-turbo-instruct, which will be implemented with 🔥 ChatGPTv3.py🔥.
+* Since, openai has deprecated the text-davinci-003 model, I modified ChatGPTv2 and renamed it ChatGPTv3.py to accommodate gpt-3.5-turbo-instruct, which will be implemented with 🔥 ChatGPTv3.py🔥.
 
 ### <b>Dependencies: </b>
 
