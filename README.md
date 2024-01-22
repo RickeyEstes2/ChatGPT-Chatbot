@@ -17,8 +17,7 @@ Find me on:<a target="_blank" href="https://twitter.com/Estes6Rickey?t=P3kTwMwJv
 - [colorama](https://www.geeksforgeeks.org/print-colors-python-terminal/)
 - [openai](https://github.com/openai/openai-python)
 
-### **<A Href="#Pydroid3">Click here for PyDroid3 Installation Instructions</a>** ##
-### **Windows cmd prompt installation**
+### **<A Href="#Pydroid3">Click here for PyDroid3 Installation Instructions</a>** ###
 
 pandas, datetime, os, colorama and openai==0.28 must be installed, if they aren't, then:
 
@@ -26,13 +25,13 @@ pandas, datetime, os, colorama and openai==0.28 must be installed, if they aren'
 pip install pandas openai==0.28 datetime colorama
 ```
 
-In the directory that ChatGPTv2.py is located type:
+In the directory that ChatGPTv3.py is located type:
 ```bash
 ChatGPTv2.py
 ```
 Then press the Enter button to run the program.
 
-If you don't have an [openai account sign up for one](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBPaUMyZmJqYW5IMzNVRXVvSnNYTWYtdFNBN05DSzA5d6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJNTTVITDc4MU50c1FRLXYzXzNtUExtQTFVRzdURkRLo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q), then generate an [API key](https://beta.openai.com/account/api-keys). Replace OPEN_API_KEY, on line number 8 in ChatGPTv2.py with the API key you were given.
+If you don't have an [openai account sign up for one](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBPaUMyZmJqYW5IMzNVRXVvSnNYTWYtdFNBN05DSzA5d6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJNTTVITDc4MU50c1FRLXYzXzNtUExtQTFVRzdURkRLo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q), then generate an [API key](https://beta.openai.com/account/api-keys). Replace OPEN_API_KEY, on line number 8 in ChatGPTv3.py with the API key you were given.
 Save and then run.
 
 
@@ -50,9 +49,9 @@ pandas, datetime, os, colorama and openai==0.28 must be installed, if they aren'
 *  🔥 Conversations are appended to ChatGPT.csv  ⭐
 
 
-- Added the second video, which shows you how to copy the ChatGPTv2.py file and paste it into the interpreter and save it. <a Href="https://youtube.com/shorts/_7kEiYdZ2Uw?feature=share">Click here</a>
+- Added the second video, which shows you how to copy the ChatGPTv3.py file and paste it into the interpreter and save it. <a Href="https://youtube.com/shorts/_7kEiYdZ2Uw?feature=share">Click here</a>
 
-- If you don't have an [openai account sign up for one](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBPaUMyZmJqYW5IMzNVRXVvSnNYTWYtdFNBN05DSzA5d6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJNTTVITDc4MU50c1FRLXYzXzNtUExtQTFVRzdURkRLo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q), then generate an [API key](https://beta.openai.com/account/api-keys). Replace OPEN_API_KEY, on line number 8 in ChatGPTv2.py with the API key you were given.
+- If you don't have an [openai account sign up for one](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBPaUMyZmJqYW5IMzNVRXVvSnNYTWYtdFNBN05DSzA5d6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJNTTVITDc4MU50c1FRLXYzXzNtUExtQTFVRzdURkRLo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q), then generate an [API key](https://beta.openai.com/account/api-keys). Replace OPEN_API_KEY, on line number 8 in ChatGPTv3.py with the API key you were given.
 Save and then run.
 
 Find me on:<a target="_blank" href="https://twitter.com/Estes6Rickey?t=P3kTwMwJvryZnMk0MAmduQ&s=09"> Twitter</a>|
