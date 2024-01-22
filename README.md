@@ -9,7 +9,7 @@ Find me on:<br>
 
 #### [🔥 Colorful Android ChatGPTv3 chatbot 🔥<br>🔥 Python3.x source code 🔥](https://raw.githubusercontent.com/RickeyEstes2/ChatGPT-Chatbot/main/ChatGPTv3.py)<br>🔥 Conversations are appended to ChatGPT.csv  ⭐
 
-* Since, openai has deprecated the text-davinci-003 model, I modified ChatGPTv2 and renamed it ChatGPTv3.py to accommodate gpt-3.5-turbo-instruct, which will be implemented with 🔥 ChatGPTv3.py🔥.
+* Since, openai has deprecated the text-davinci-003 model, I modified ChatGPTv2 and renamed it ChatGPTv3.py to accommodate gpt-3.5-turbo-instruct, which will be implemented with 🔥ChatGPTv3.py🔥.
 
 ### <b>Dependencies: </b>
 
